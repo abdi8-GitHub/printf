@@ -1,7 +1,7 @@
 # **`printf`**
 
 
->Write your own `printf` function.
+>Write your own `printf` function(Recreate the standard library printf() function).
 
 
 ## Welcome
