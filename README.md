@@ -78,10 +78,5 @@ gcc -Wall -Werror -Wextra -pedantic *.c
 * [**Estifanos Lisanework**](https://github.com/estifanos4304/) 
 
 
-## Acknowledgments
-
-* The Framework
-* Cohort 11
-* ALX groups
 
 
